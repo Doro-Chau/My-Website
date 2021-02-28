@@ -10,7 +10,7 @@ If you like the template and find it useful, please help us spread the word :-)
 
 Live Preview
 =======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+https://www.htmlcoder.me/preview/worthy/v.1.0
 
 License
 =======================================================================
@@ -22,19 +22,19 @@ Credits
 
 Demo images
 ------------------------------------------------------
-- Unsplash by Crew - http://unsplash.com/
+- Unsplash by Crew - https://unsplash.com/
 
 Fonts
 ------------------------------------------------------
-- Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
-- Google Fonts - http://www.google.com/fonts
+- Font Awesome by Dave Gandy - https://fortawesome.github.io/Font-Awesome/
+- Google Fonts - https://www.google.com/fonts
 
 Resources
 ------------------------------------------------------
-- Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
+- Bootstrap Framework by @mdo and @fat - https://getbootstrap.com/
 - jQuery - https://jquery.org/
 - jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
-- Modernizr - http://modernizr.com/
-- Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
-- Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
-- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
+- Modernizr - https://modernizr.com/
+- Animate CSS by Daniel T. Eden - https://daneden.github.io/animate.css/
+- Isotope Jquery plugin by metafizzy.co - https://isotope.metafizzy.co/
+- Backstrech by Scott Robbin - https://srobbin.com/jquery-plugins/backstretch/
